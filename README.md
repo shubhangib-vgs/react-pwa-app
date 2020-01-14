@@ -1,2 +1,2 @@
 # react-pwa-app
-my first app by priyanka
+my first app by shubha
